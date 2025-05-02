@@ -1,8 +1,12 @@
+## Intro
+- This is an expense tracker with the purpose of primarily helping you log your cash transactions.
+- With the use of handy buttons to easily add a transaction I hope to streamline the process.
+- This is all to keep the user accountable so that they're able to accurately track their expenses
+
 ## Getting Started
+Download the files from this repository and open the repository
 
-Download the files from this repository
-
-Make sure you have node.js downloaded
+First make sure you have node.js downloaded
 ```
 node -v
 ```
@@ -23,5 +27,5 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-Or which ever server it tells you can be opened in ther terminal
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the expense tracker.
+Or which ever server it tells you can be opened in the terminal
